@@ -85,7 +85,7 @@ export function FloatingNav() {
                 </Link>
               ))}
               <Link
-                href="https://drive.google.com/file/d/1PDqgvZ9OnCza6PYYiUf2RJcNmJsUksqK/view?usp=sharing"
+                href="https://drive.google.com/file/d/1kpCrGVuMugdK-irTfsGqlGWAIoOGGN7u/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -121,7 +121,7 @@ export function FloatingNav() {
               </Link>
             ))}
             <Link
-              href="https://drive.google.com/file/d/1PDqgvZ9OnCza6PYYiUf2RJcNmJsUksqK/view?usp=sharing"
+              href="https://drive.google.com/file/d/1kpCrGVuMugdK-irTfsGqlGWAIoOGGN7u/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
